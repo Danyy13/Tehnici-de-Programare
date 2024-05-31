@@ -1,0 +1,25 @@
+ana
+lungime: 3
+numar vocale: 2
+numar litere mari: 0
+diferenta in ASCII dintre prima si ultima litera: 0
+are
+lungime: 3
+numar vocale: 2
+numar litere mari: 0
+diferenta in ASCII dintre prima si ultima litera: 4
+mere
+lungime: 4
+numar vocale: 2
+numar litere mari: 0
+diferenta in ASCII dintre prima si ultima litera: -8
+si
+lungime: 2
+numar vocale: 1
+numar litere mari: 0
+diferenta in ASCII dintre prima si ultima litera: -10
+pere
+lungime: 4
+numar vocale: 2
+numar litere mari: 0
+diferenta in ASCII dintre prima si ultima litera: -11
